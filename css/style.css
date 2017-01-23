@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai|Oleo+Script');
+body{
+	font-family: 'Oleo Script', cursive; sans-serif;
+	color: black;
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+p{
+    color: black;
+    height:100%;
+    margin: 0;
+    padding: auto;
+	width: fit-content; 
+	height: fit-content;
+	padding: 10px 10px 10px 10px;
+}
+
+.con1{
+	width:100%;
+	margin: 0 auto ;
+	overflow: hidden;
+	background: green; 
+	box-shadow: 5px 10px 5px #9a9a9a;
+	display: flex;
+
+	}
+.con2{
+	width:100%;
+	margin: 0 auto;
+	overflow: hidden;
+	background: white; 
+	box-shadow: 5px 10px 5px #9a9a9a;
+	display: flex;
+
+	}
+.con3{
+	width:100%;
+	margin: 0 auto;
+	overflow: hidden;
+	background: red; 
+	box-shadow: 5px 10px 5px #9a9a9a;
+	display: flex;
+
+	}
+.D1 {
+	width: 20%;
+    height: auto;
+	float: left;
+	background: #fd8383;
+}
+.D2 {
+	width: 35%;
+    height: auto;
+	float: left;
+	background: #05e3ff;
+}	
+
+.D3 {
+	width: 35%;
+    height: auto;
+	float: left;
+	background: #b7a09c;
+}
+
+.D4 {
+	width: 10%;
+    height: auto;
+	float: left;
+	background: #6ff50f;
+}
+.D5 {
+	width: 10%;
+    height: auto;
+	float: left;
+	background: #0c89ec;
+}	
+
+.D6 {
+	width: 80%;
+    height: auto;
+	float: left;
+	background: #FF9800;
+}
+
+.D7 {
+	width: 10%;
+    height: auto;
+	float: left;
+	background: #0bf9e3;
+}
+.D8 {
+	width: 45%;
+    height: auto;
+	float: left;
+	background: rgba(158, 62, 175, 0.95);
+}	
+
+.D9 {
+	width: 45%;
+    height: auto;
+	float: right;
+	background: rgb(76, 175, 80);
+}
+
+.D10 {
+	width: 10%;
+	height:auto;
+	float: right;
+	background: rgba(189, 31, 85, 0.91);
+}	
+.d10 p{ 
+	color: purple;}	
